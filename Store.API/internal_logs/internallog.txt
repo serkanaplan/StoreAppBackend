@@ -1,0 +1,716 @@
+2024-03-31 00:08:35.6718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 00:08:35.7365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 00:08:35.7533 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 00:08:35.7783 Info Configuration initialized.
+2024-03-31 00:11:38.5569 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 00:11:38.6928 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 00:11:38.7132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 00:11:38.7483 Info Configuration initialized.
+2024-03-31 00:13:17.8893 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 00:13:17.9120 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 00:13:17.9228 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 00:13:17.9228 Info Configuration initialized.
+2024-03-31 02:51:44.2669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 02:51:44.4016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 02:51:44.4164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 02:51:44.4296 Info Configuration initialized.
+2024-03-31 02:56:24.4423 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 02:56:24.4615 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 02:56:24.4716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 02:56:24.4842 Info Configuration initialized.
+2024-03-31 02:59:25.7517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 02:59:25.7760 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 02:59:25.7887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 02:59:25.8026 Info Configuration initialized.
+2024-03-31 03:00:18.4242 Info AppDomain Shutting down. LogFactory closing...
+2024-03-31 03:00:18.4242 Info LogFactory has been closed.
+2024-03-31 03:00:58.4291 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:00:58.4501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:00:58.4650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:00:58.4836 Info Configuration initialized.
+2024-03-31 03:01:54.4705 Info AppDomain Shutting down. LogFactory closing...
+2024-03-31 03:01:54.4705 Info LogFactory has been closed.
+2024-03-31 03:02:44.2584 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:02:44.2959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:02:44.3138 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:02:44.3339 Info Configuration initialized.
+2024-03-31 03:06:03.2048 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:06:03.2664 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:06:03.2834 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:06:03.3046 Info Configuration initialized.
+2024-03-31 03:08:09.7373 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:08:09.8281 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:08:09.8574 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:08:09.9020 Info Configuration initialized.
+2024-03-31 03:10:04.1014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:10:04.1657 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:10:04.1948 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:10:04.2155 Info Configuration initialized.
+2024-03-31 03:12:36.0724 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:12:36.1558 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:12:36.1868 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:12:36.2218 Info Configuration initialized.
+2024-03-31 03:14:56.0186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:14:56.1110 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:14:56.1322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:14:56.1521 Info Configuration initialized.
+2024-03-31 03:15:28.7559 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:15:28.8238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:15:28.8590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:15:28.9027 Info Configuration initialized.
+2024-03-31 03:15:46.9910 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:15:47.0135 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:15:47.0295 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:15:47.0453 Info Configuration initialized.
+2024-03-31 03:46:14.7095 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:46:14.7395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:46:14.7600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:46:14.7824 Info Configuration initialized.
+2024-03-31 03:46:20.4857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:46:21.2350 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:46:21.2609 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:46:21.2878 Info Configuration initialized.
+2024-03-31 03:47:20.5219 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 03:47:20.5647 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 03:47:20.5867 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 03:47:20.6081 Info Configuration initialized.
+2024-03-31 15:39:44.5150 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 15:39:44.5821 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 15:39:44.6250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 15:39:44.6610 Info Configuration initialized.
+2024-03-31 16:32:58.4488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 16:32:58.5325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 16:32:58.5571 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 16:32:58.5944 Info Configuration initialized.
+2024-03-31 16:38:24.8499 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 16:38:24.9035 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 16:38:24.9213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 16:38:24.9429 Info Configuration initialized.
+2024-03-31 16:49:14.4177 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 16:49:14.4680 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 16:49:14.4680 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 16:49:14.5000 Info Configuration initialized.
+2024-03-31 16:51:49.9901 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 16:51:50.0510 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 16:51:50.0714 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 16:51:50.1031 Info Configuration initialized.
+2024-03-31 17:16:27.1830 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 17:16:27.2351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 17:16:27.2523 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 17:16:27.2707 Info Configuration initialized.
+2024-03-31 17:18:24.8542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 17:18:24.9784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 17:18:25.0288 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 17:18:25.0824 Info Configuration initialized.
+2024-03-31 18:43:30.0459 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 18:43:30.1365 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 18:43:30.1768 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 18:43:30.2184 Info Configuration initialized.
+2024-03-31 19:21:47.6612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 19:21:47.7517 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 19:21:47.7647 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 19:21:47.7821 Info Configuration initialized.
+2024-03-31 19:36:45.1952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 19:36:45.2624 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 19:36:45.2832 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 19:36:45.3047 Info Configuration initialized.
+2024-03-31 20:06:01.4654 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 20:06:01.5395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 20:06:01.5618 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 20:06:01.5901 Info Configuration initialized.
+2024-03-31 21:01:12.2154 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:01:12.3183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:01:12.3650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:01:12.4009 Info Configuration initialized.
+2024-03-31 21:04:36.1977 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:04:36.2240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:04:36.2361 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:04:36.2519 Info Configuration initialized.
+2024-03-31 21:07:16.8800 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:07:16.9106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:07:16.9332 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:07:16.9563 Info Configuration initialized.
+2024-03-31 21:07:48.4362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:07:48.4731 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:07:48.4937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:07:48.5161 Info Configuration initialized.
+2024-03-31 21:28:19.7652 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:28:19.8075 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:28:19.8269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:28:19.8455 Info Configuration initialized.
+2024-03-31 21:39:41.4195 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:39:41.4543 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:39:41.4671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:39:41.4830 Info Configuration initialized.
+2024-03-31 21:58:27.6069 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 21:58:27.6501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 21:58:27.6809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 21:58:27.7161 Info Configuration initialized.
+2024-03-31 22:48:43.9186 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 22:48:43.9466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 22:48:43.9590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 22:48:43.9738 Info Configuration initialized.
+2024-03-31 23:02:15.9023 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 23:02:15.9476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 23:02:15.9644 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 23:02:15.9846 Info Configuration initialized.
+2024-03-31 23:19:27.2954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 23:19:27.3331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 23:19:27.3483 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 23:19:27.3670 Info Configuration initialized.
+2024-03-31 23:49:54.7999 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 23:49:54.8331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 23:49:54.8535 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 23:49:54.8753 Info Configuration initialized.
+2024-03-31 23:50:49.8849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 23:50:49.9287 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 23:50:49.9586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 23:50:49.9885 Info Configuration initialized.
+2024-03-31 23:58:20.4865 Info AppDomain Shutting down. LogFactory closing...
+2024-03-31 23:58:20.5026 Info LogFactory has been closed.
+2024-03-31 23:59:21.8705 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-31 23:59:21.9798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-31 23:59:22.0515 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-03-31 23:59:22.1645 Info Configuration initialized.
+2024-04-01 00:01:50.3368 Info AppDomain Shutting down. LogFactory closing...
+2024-04-01 00:01:50.3570 Info LogFactory has been closed.
+2024-04-01 00:14:41.5623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-01 00:14:41.6005 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-01 00:14:41.6167 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-01 00:14:41.6334 Info Configuration initialized.
+2024-04-01 03:21:07.1704 Info AppDomain Shutting down. LogFactory closing...
+2024-04-01 03:21:07.2612 Info LogFactory has been closed.
+2024-04-01 17:12:22.3987 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-01 17:12:22.4222 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-01 17:12:22.4337 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-01 17:12:22.4465 Info Configuration initialized.
+2024-04-01 17:17:40.1606 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-01 17:17:40.1786 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-01 17:17:40.1891 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-01 17:17:40.1891 Info Configuration initialized.
+2024-04-01 20:08:39.6966 Info AppDomain Shutting down. LogFactory closing...
+2024-04-01 20:08:39.7344 Info LogFactory has been closed.
+2024-04-01 20:52:20.9680 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-01 20:52:21.0138 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-01 20:52:21.0412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-01 20:52:21.0765 Info Configuration initialized.
+2024-04-01 21:03:16.9121 Info AppDomain Shutting down. LogFactory closing...
+2024-04-01 21:03:16.9411 Info LogFactory has been closed.
+2024-04-02 20:46:07.7769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 20:46:07.7970 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 20:46:07.8159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 20:46:07.8364 Info Configuration initialized.
+2024-04-02 21:00:11.4438 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 21:00:11.4737 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 21:00:11.4878 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 21:00:11.5033 Info Configuration initialized.
+2024-04-02 21:35:16.6694 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 21:35:16.6979 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 21:35:16.7191 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 21:35:16.7427 Info Configuration initialized.
+2024-04-02 22:13:20.3150 Info AppDomain Shutting down. LogFactory closing...
+2024-04-02 22:13:20.3150 Info LogFactory has been closed.
+2024-04-02 22:14:18.0504 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 22:14:18.0746 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 22:14:18.0885 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 22:14:18.1018 Info Configuration initialized.
+2024-04-02 22:15:52.2838 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 22:15:52.3460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 22:15:52.3781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 22:15:52.4074 Info Configuration initialized.
+2024-04-02 22:57:34.9985 Info AppDomain Shutting down. LogFactory closing...
+2024-04-02 22:57:35.0629 Info LogFactory has been closed.
+2024-04-02 22:58:36.0870 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 22:58:36.1303 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 22:58:36.1582 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 22:58:36.1864 Info Configuration initialized.
+2024-04-02 23:00:54.5749 Info AppDomain Shutting down. LogFactory closing...
+2024-04-02 23:00:54.5983 Info LogFactory has been closed.
+2024-04-02 23:03:10.2251 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:03:10.3845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:03:10.4340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:03:10.4855 Info Configuration initialized.
+2024-04-02 23:23:38.0690 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:23:38.1549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:23:38.1799 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:23:38.2125 Info Configuration initialized.
+2024-04-02 23:31:41.5449 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:31:41.8693 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:31:41.9022 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:31:41.9347 Info Configuration initialized.
+2024-04-02 23:35:13.6824 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:35:13.8316 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:35:13.8899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:35:13.9313 Info Configuration initialized.
+2024-04-02 23:37:33.8831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:37:33.9740 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:37:34.0072 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:37:34.0423 Info Configuration initialized.
+2024-04-02 23:44:40.0146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-02 23:44:40.0658 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-02 23:44:40.0833 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-02 23:44:40.1023 Info Configuration initialized.
+2024-04-03 02:55:58.3924 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 02:55:58.4522 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 02:55:58.4720 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 02:55:58.4967 Info Configuration initialized.
+2024-04-03 20:08:26.4616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 20:08:26.5887 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 20:08:26.6025 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 20:08:26.6165 Info Configuration initialized.
+2024-04-03 20:59:37.2663 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 20:59:37.3483 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 20:59:37.3600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 20:59:37.3751 Info Configuration initialized.
+2024-04-03 21:28:54.7426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 21:28:54.7663 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 21:28:54.7801 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 21:28:54.7919 Info Configuration initialized.
+2024-04-03 21:39:09.0676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 21:39:09.0965 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 21:39:09.1147 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 21:39:09.1390 Info Configuration initialized.
+2024-04-03 21:47:15.6582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 21:47:15.6834 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 21:47:15.7007 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 21:47:15.7157 Info Configuration initialized.
+2024-04-03 22:06:08.8846 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 22:06:08.9068 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 22:06:08.9180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 22:06:08.9363 Info Configuration initialized.
+2024-04-03 23:55:57.6681 Info AppDomain Shutting down. LogFactory closing...
+2024-04-03 23:55:57.7278 Info LogFactory has been closed.
+2024-04-03 23:56:30.2952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-03 23:56:30.3210 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-03 23:56:30.3363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-03 23:56:30.3540 Info Configuration initialized.
+2024-04-04 02:13:22.2087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 02:13:22.3314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 02:13:22.3557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 02:13:22.3896 Info Configuration initialized.
+2024-04-04 02:19:24.3658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 02:19:24.3934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 02:19:24.4075 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 02:19:24.4253 Info Configuration initialized.
+2024-04-04 03:20:08.7409 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 03:20:08.7844 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 03:20:08.8062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 03:20:08.8286 Info Configuration initialized.
+2024-04-04 03:21:42.0135 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 03:21:42.0371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 03:21:42.0496 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 03:21:42.0648 Info Configuration initialized.
+2024-04-04 17:24:13.7215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 17:24:13.7988 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 17:24:13.8077 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 17:24:13.8077 Info Configuration initialized.
+2024-04-04 17:32:42.6173 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 17:32:42.6498 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 17:32:42.6922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 17:32:42.7184 Info Configuration initialized.
+2024-04-04 17:33:25.7883 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 17:33:25.8004 Info LogFactory has been closed.
+2024-04-04 19:07:12.0554 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 19:07:12.1320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 19:07:12.1466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 19:07:12.1593 Info Configuration initialized.
+2024-04-04 19:47:16.6233 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 19:47:16.6430 Info LogFactory has been closed.
+2024-04-04 19:47:36.2090 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 19:47:36.2301 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 19:47:36.2301 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 19:47:36.2558 Info Configuration initialized.
+2024-04-04 19:54:59.9191 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 19:54:59.9322 Info LogFactory has been closed.
+2024-04-04 19:55:07.3951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 19:55:07.4242 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 19:55:07.4384 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 19:55:07.4575 Info Configuration initialized.
+2024-04-04 23:18:48.8445 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 23:18:48.8700 Info LogFactory has been closed.
+2024-04-04 23:19:22.4490 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 23:19:22.4819 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 23:19:22.4981 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 23:19:22.5189 Info Configuration initialized.
+2024-04-04 23:26:59.0485 Info AppDomain Shutting down. LogFactory closing...
+2024-04-04 23:26:59.0611 Info LogFactory has been closed.
+2024-04-04 23:27:28.9501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-04 23:27:28.9763 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-04 23:27:28.9925 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-04 23:27:29.0088 Info Configuration initialized.
+2024-04-05 00:00:48.0249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 00:00:48.0489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 00:00:48.0597 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 00:00:48.0783 Info Configuration initialized.
+2024-04-05 00:02:59.9661 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 00:02:59.9935 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 00:03:00.0084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 00:03:00.0269 Info Configuration initialized.
+2024-04-05 00:04:15.2026 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 00:04:15.2344 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 00:04:15.2585 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 00:04:15.2835 Info Configuration initialized.
+2024-04-05 00:07:54.9850 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 00:07:54.9980 Info LogFactory has been closed.
+2024-04-05 00:08:29.3287 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 00:08:29.3629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 00:08:29.3789 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 00:08:29.3930 Info Configuration initialized.
+2024-04-05 00:14:19.8733 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 00:14:19.8947 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 00:14:19.9085 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 00:14:19.9213 Info Configuration initialized.
+2024-04-05 01:50:02.0918 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 01:50:02.1117 Info LogFactory has been closed.
+2024-04-05 02:10:45.0831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 02:10:45.1190 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 02:10:45.1376 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 02:10:45.1621 Info Configuration initialized.
+2024-04-05 02:13:32.8579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 02:13:32.8930 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 02:13:32.9168 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 02:13:32.9492 Info Configuration initialized.
+2024-04-05 02:37:50.5127 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 02:37:50.5391 Info LogFactory has been closed.
+2024-04-05 03:02:57.4977 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:02:57.5198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:02:57.5299 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:02:57.5424 Info Configuration initialized.
+2024-04-05 03:02:58.6904 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:02:58.6995 Info LogFactory has been closed.
+2024-04-05 03:13:28.5823 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:13:28.6027 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:13:28.6135 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:13:28.6277 Info Configuration initialized.
+2024-04-05 03:13:30.1714 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:13:30.1714 Info LogFactory has been closed.
+2024-04-05 03:15:08.9455 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:15:08.9696 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:15:08.9836 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:15:08.9990 Info Configuration initialized.
+2024-04-05 03:15:10.2047 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:15:10.2155 Info LogFactory has been closed.
+2024-04-05 03:18:39.5808 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:18:39.6010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:18:39.6121 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:18:39.6243 Info Configuration initialized.
+2024-04-05 03:18:40.7021 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:18:40.7160 Info LogFactory has been closed.
+2024-04-05 03:21:21.1039 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:21:21.1229 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:21:21.1229 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:21:21.1431 Info Configuration initialized.
+2024-04-05 03:21:22.8296 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:21:22.8412 Info LogFactory has been closed.
+2024-04-05 03:26:08.8211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:26:08.8488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:26:08.8653 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:26:08.8883 Info Configuration initialized.
+2024-04-05 03:26:11.7344 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:26:11.7607 Info LogFactory has been closed.
+2024-04-05 03:28:20.3594 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-05 03:28:20.3836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-05 03:28:20.3946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-05 03:28:20.4183 Info Configuration initialized.
+2024-04-05 03:28:22.7679 Info AppDomain Shutting down. LogFactory closing...
+2024-04-05 03:28:22.7816 Info LogFactory has been closed.
+2024-04-06 16:26:53.4859 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 16:26:53.5080 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 16:26:53.5186 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 16:26:53.5316 Info Configuration initialized.
+2024-04-06 16:26:55.3197 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 16:26:55.3326 Info LogFactory has been closed.
+2024-04-06 16:27:35.9793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 16:27:35.9976 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 16:27:35.9976 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 16:27:36.0191 Info Configuration initialized.
+2024-04-06 16:27:37.1792 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 16:27:37.1897 Info LogFactory has been closed.
+2024-04-06 16:29:09.3935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 16:29:09.4157 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 16:29:09.4270 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 16:29:09.4399 Info Configuration initialized.
+2024-04-06 16:29:11.0684 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 16:29:11.0791 Info LogFactory has been closed.
+2024-04-06 16:29:24.9969 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 16:29:25.0145 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 16:29:25.0145 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 16:29:25.0393 Info Configuration initialized.
+2024-04-06 16:29:26.5095 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 16:29:26.5189 Info LogFactory has been closed.
+2024-04-06 16:54:08.3596 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 16:54:08.3842 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 16:54:08.3935 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 16:54:08.4055 Info Configuration initialized.
+2024-04-06 16:54:10.6261 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 16:54:10.6368 Info LogFactory has been closed.
+2024-04-06 18:18:09.8299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 18:18:09.8547 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 18:18:09.8709 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 18:18:09.8873 Info Configuration initialized.
+2024-04-06 21:51:30.7224 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 21:51:30.7628 Info LogFactory has been closed.
+2024-04-06 22:03:56.4935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 22:03:56.5193 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 22:03:56.5320 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 22:03:56.5468 Info Configuration initialized.
+2024-04-06 22:07:56.9979 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 22:07:57.0287 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-06 22:07:57.0465 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-06 22:07:57.0658 Info Configuration initialized.
+2024-04-07 00:38:21.9199 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 00:38:22.0812 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 00:38:22.1058 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 00:38:22.1340 Info Configuration initialized.
+2024-04-07 00:45:41.7978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 00:45:41.8235 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 00:45:41.8386 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 00:45:41.8556 Info Configuration initialized.
+2024-04-07 01:02:45.1618 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 01:02:45.1756 Info LogFactory has been closed.
+2024-04-07 01:03:34.4279 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 01:03:34.4562 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 01:03:34.4730 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 01:03:34.4948 Info Configuration initialized.
+2024-04-07 01:08:08.4746 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 01:08:08.4905 Info LogFactory has been closed.
+2024-04-07 01:10:15.0952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 01:10:15.1272 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 01:10:15.1467 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 01:10:15.1668 Info Configuration initialized.
+2024-04-07 05:18:26.6523 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 05:18:26.6958 Info LogFactory has been closed.
+2024-04-07 17:30:16.2157 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 17:30:16.2987 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 17:30:16.3118 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 17:30:16.3240 Info Configuration initialized.
+2024-04-07 18:15:29.0453 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 18:15:29.0747 Info LogFactory has been closed.
+2024-04-07 18:17:08.0875 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 18:17:08.1111 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 18:17:08.1207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 18:17:08.1321 Info Configuration initialized.
+2024-04-07 18:17:10.0288 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 18:17:10.0422 Info LogFactory has been closed.
+2024-04-07 18:17:34.4520 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 18:17:34.4772 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 18:17:34.4772 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 18:17:34.5078 Info Configuration initialized.
+2024-04-07 18:17:58.1929 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 18:17:58.2025 Info LogFactory has been closed.
+2024-04-07 22:46:00.2925 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 22:46:00.3849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 22:46:00.3849 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 22:46:00.4113 Info Configuration initialized.
+2024-04-07 23:05:31.5931 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 23:05:31.6060 Info LogFactory has been closed.
+2024-04-07 23:05:52.0312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:05:52.0529 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:05:52.0641 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:05:52.0809 Info Configuration initialized.
+2024-04-07 23:09:25.0215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:09:25.0465 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:09:25.0636 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:09:25.0833 Info Configuration initialized.
+2024-04-07 23:09:48.1799 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 23:09:48.1799 Info LogFactory has been closed.
+2024-04-07 23:10:02.6996 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:10:02.7256 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:10:02.7422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:10:02.7599 Info Configuration initialized.
+2024-04-07 23:11:54.5475 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:11:54.5919 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:11:54.6157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:11:54.6426 Info Configuration initialized.
+2024-04-07 23:23:25.8421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:23:25.8790 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:23:25.8971 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:23:25.9186 Info Configuration initialized.
+2024-04-07 23:48:45.5395 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 23:48:45.5616 Info LogFactory has been closed.
+2024-04-07 23:58:33.0951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:58:33.1205 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:58:33.1324 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:58:33.1324 Info Configuration initialized.
+2024-04-07 23:58:33.3814 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 23:58:33.3965 Info LogFactory has been closed.
+2024-04-07 23:59:27.9277 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-07 23:59:27.9570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-07 23:59:27.9731 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-07 23:59:27.9932 Info Configuration initialized.
+2024-04-07 23:59:28.1909 Info AppDomain Shutting down. LogFactory closing...
+2024-04-07 23:59:28.2046 Info LogFactory has been closed.
+2024-04-08 00:01:49.0734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:01:49.0992 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:01:49.1122 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:01:49.1273 Info Configuration initialized.
+2024-04-08 00:01:49.3096 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:01:49.3223 Info LogFactory has been closed.
+2024-04-08 00:04:26.5722 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:04:26.5936 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:04:26.6029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:04:26.6029 Info Configuration initialized.
+2024-04-08 00:04:26.7626 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:04:26.7753 Info LogFactory has been closed.
+2024-04-08 00:05:15.6917 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:05:15.7096 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:05:15.7198 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:05:15.7315 Info Configuration initialized.
+2024-04-08 00:05:15.8714 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:05:15.8822 Info LogFactory has been closed.
+2024-04-08 00:05:50.6312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:05:50.6549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:05:50.6696 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:05:50.6879 Info Configuration initialized.
+2024-04-08 00:05:50.8382 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:05:50.8382 Info LogFactory has been closed.
+2024-04-08 00:06:17.6243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:06:17.6427 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:06:17.6517 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:06:17.6517 Info Configuration initialized.
+2024-04-08 00:06:17.7821 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:06:17.7932 Info LogFactory has been closed.
+2024-04-08 00:07:08.4210 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:07:08.4406 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:07:08.4500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:07:08.4622 Info Configuration initialized.
+2024-04-08 00:07:08.5995 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:07:08.6096 Info LogFactory has been closed.
+2024-04-08 00:08:38.1161 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:08:38.1381 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:08:38.1499 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:08:38.1499 Info Configuration initialized.
+2024-04-08 00:08:38.3654 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:08:38.3756 Info LogFactory has been closed.
+2024-04-08 00:16:00.8669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:16:00.8931 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:16:00.9072 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:16:00.9185 Info Configuration initialized.
+2024-04-08 00:16:01.0889 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:16:01.0889 Info LogFactory has been closed.
+2024-04-08 00:20:36.6964 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:20:36.7158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:20:36.7158 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:20:36.7368 Info Configuration initialized.
+2024-04-08 00:20:36.9246 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:20:36.9354 Info LogFactory has been closed.
+2024-04-08 00:27:51.3524 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:27:51.3803 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:27:51.3961 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:27:51.4139 Info Configuration initialized.
+2024-04-08 00:27:51.6201 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:27:51.6201 Info LogFactory has been closed.
+2024-04-08 00:33:52.2365 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:33:52.2518 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:33:52.2612 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:33:52.2612 Info Configuration initialized.
+2024-04-08 00:33:52.3966 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:33:52.4098 Info LogFactory has been closed.
+2024-04-08 00:37:05.2908 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:37:05.3058 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:37:05.3058 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:37:05.3291 Info Configuration initialized.
+2024-04-08 00:37:07.3056 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:37:07.3056 Info LogFactory has been closed.
+2024-04-08 00:37:24.8973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 00:37:24.9177 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 00:37:24.9293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 00:37:24.9293 Info Configuration initialized.
+2024-04-08 00:37:28.2786 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 00:37:28.2898 Info LogFactory has been closed.
+2024-04-08 01:02:10.0806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:02:10.1099 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:02:10.1226 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:02:10.1371 Info Configuration initialized.
+2024-04-08 01:12:34.9879 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:12:35.0069 Info LogFactory has been closed.
+2024-04-08 01:14:09.6673 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:14:09.6881 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:14:09.6989 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:14:09.7131 Info Configuration initialized.
+2024-04-08 01:14:11.9239 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:14:11.9349 Info LogFactory has been closed.
+2024-04-08 01:14:31.0506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:14:31.0667 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:14:31.0758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:14:31.0869 Info Configuration initialized.
+2024-04-08 01:14:32.7140 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:14:32.7253 Info LogFactory has been closed.
+2024-04-08 01:27:15.2986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:27:15.3322 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:27:15.3474 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:27:15.3665 Info Configuration initialized.
+2024-04-08 01:33:33.5878 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:33:33.6042 Info LogFactory has been closed.
+2024-04-08 01:33:41.4345 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:33:41.4642 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:33:41.4792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:33:41.4945 Info Configuration initialized.
+2024-04-08 01:34:56.9023 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:34:56.9167 Info LogFactory has been closed.
+2024-04-08 01:35:01.7898 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:35:01.8241 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:35:01.8491 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:35:01.8745 Info Configuration initialized.
+2024-04-08 01:35:18.6223 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:35:18.6381 Info LogFactory has been closed.
+2024-04-08 01:35:24.5805 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:35:24.6026 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:35:24.6026 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:35:24.6322 Info Configuration initialized.
+2024-04-08 01:45:26.9656 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:45:26.9800 Info LogFactory has been closed.
+2024-04-08 01:45:36.2911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:45:36.3227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:45:36.3349 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:45:36.3518 Info Configuration initialized.
+2024-04-08 01:51:24.3714 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:51:24.3872 Info LogFactory has been closed.
+2024-04-08 01:51:31.5526 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:51:31.5756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:51:31.5899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:51:31.6032 Info Configuration initialized.
+2024-04-08 01:53:20.4568 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 01:53:20.4732 Info LogFactory has been closed.
+2024-04-08 01:53:25.5942 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 01:53:25.6270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 01:53:25.6463 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 01:53:25.6706 Info Configuration initialized.
+2024-04-08 02:12:41.6186 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 02:12:41.6358 Info LogFactory has been closed.
+2024-04-08 02:20:27.7516 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 02:20:27.7772 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 02:20:27.7904 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 02:20:27.7904 Info Configuration initialized.
+2024-04-08 02:23:06.2991 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 02:23:06.3173 Info LogFactory has been closed.
+2024-04-08 02:27:03.3868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 02:27:03.4146 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 02:27:03.4289 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 02:27:03.4468 Info Configuration initialized.
+2024-04-08 02:49:34.7898 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 02:49:34.8044 Info LogFactory has been closed.
+2024-04-08 02:49:49.5728 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 02:49:49.6077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 02:49:49.6244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 02:49:49.6427 Info Configuration initialized.
+2024-04-08 02:51:32.6534 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 02:51:32.6667 Info LogFactory has been closed.
+2024-04-08 02:52:07.0540 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 02:52:07.0810 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 02:52:07.0991 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 02:52:07.1172 Info Configuration initialized.
+2024-04-08 02:52:33.1035 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 02:52:33.1160 Info LogFactory has been closed.
+2024-04-08 03:04:39.5476 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 03:04:39.5701 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 03:04:39.5701 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 03:04:39.5965 Info Configuration initialized.
+2024-04-08 03:12:29.1242 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 03:12:29.1354 Info LogFactory has been closed.
+2024-04-08 03:12:47.7219 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-08 03:12:47.7434 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-08 03:12:47.7580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\serka\Desktop\BTKStoreApp\BTKStoreApp\Store.API\nlog.config
+2024-04-08 03:12:47.7741 Info Configuration initialized.
+2024-04-08 04:15:31.3848 Info AppDomain Shutting down. LogFactory closing...
+2024-04-08 04:15:31.4009 Info LogFactory has been closed.
